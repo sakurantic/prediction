@@ -1,0 +1,9 @@
+1.数据获取
+实时的二氧化硫（SO2）、二氧化氮（NO2）、一氧化碳（CO）、臭氧（O3）、可吸入颗粒物（PM10）、细颗粒物（PM2.5）
+等六种环境空气污染物基本项目的浓度监测数据和空气质量指数（AQI）
+气象数据/工业废气排放监测数据/
+原始数据1：
+#   No, year, month, day, hour, season,              ← 时间和编号
+#   PM_Jingan, PM_US Post, PM_Xuhui,                 ← 三个监测站的 PM2.5 浓度 (ug/m3)
+#   DEWP, HUMI, PRES, TEMP,                          ← 气象变量（露点、湿度、气压、温度）
+#   cbwd, Iws, precipitation, Iprec                  ← 风向、风速、降水
