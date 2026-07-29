@@ -15,6 +15,10 @@
 
 
 3.xgboost 考虑加入一些简单的参数
+7.29上午：学习xgboost 下午：代码实践 回来：调优+lstm学习
+
+
+
 4.lstm
 lstm:前置：d2lchapter1-5，8-9 鱼书全部
 a
