@@ -1,0 +1,11 @@
+﻿python :   File "<string>", line 1
+所在位置 行:1 字符: 251
++ ... ONUTF8='1'; python -c "import json; nb=json.load(open('notes/mlp_mode ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (  File "<string>", line 1:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+    import json; nb=json.load(open('notes/mlp_model(2).ipynb',encoding='utf-8')); [print(f'=== CELL {i} ({len(c[" sourc
+e\])}
+                                                                                                                ^
+SyntaxError: unterminated string literal (detected at line 1)
